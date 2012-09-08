@@ -19,7 +19,7 @@ setup(
     license = "Apache License, Version 2.0",
     keywords = "tornado mixin facebook foursquare api client",
     url = "https://github.com/fjsj/tornado_api",
-    packages=['mixins'],
+    packages=['tornado_api_mixins'],
     long_description=read('README.md'),
     classifiers=[
         "Development Status :: 3 - Alpha",
